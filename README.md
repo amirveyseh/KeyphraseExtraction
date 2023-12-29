@@ -1,8 +1,8 @@
-# KeyphraseExtraction
+# Keyphrase Extraction
 
 Dataset for the paper "[Improving Keyphrase Extraction with Data Augmentation and Information Filtering](https://arxiv.org/abs/2209.04951)" at the AAAI-2022 Workshop On Video Transcript Understanding
 
-# Licenses
+# License
 
 The dataset provided in this repo is licensed under [CC BY-NC 4.0 international license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
