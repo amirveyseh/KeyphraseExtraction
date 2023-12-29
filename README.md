@@ -1,6 +1,6 @@
 # KeyphraseExtraction
 
-Dataset for the paper "Improving Keyphrase Extraction with Data Augmentation and Information Filtering" at the AAAI-2022 Workshop On Video Transcript Understanding
+Dataset for the paper "[Improving Keyphrase Extraction with Data Augmentation and Information Filtering](https://arxiv.org/abs/2209.04951)" at the AAAI-2022 Workshop On Video Transcript Understanding
 
 # Licenses
 
